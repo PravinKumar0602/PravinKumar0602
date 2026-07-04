@@ -153,7 +153,7 @@ A responsive website built using HTML, CSS and JavaScript to strengthen frontend
 
 <!-- Add your LinkedIn -->
 
-<a href="#">
+<a href="https://www.linkedin.com/in/s-pravin-kumar-7254a2290">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
