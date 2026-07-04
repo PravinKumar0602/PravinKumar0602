@@ -159,7 +159,7 @@ A responsive website built using HTML, CSS and JavaScript to strengthen frontend
 
 <!-- Replace with your email -->
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:pravinkumars7650@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
